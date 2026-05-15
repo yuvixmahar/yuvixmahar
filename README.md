@@ -1,8 +1,8 @@
 ## Hey, I'm Yuvraj 👋
 
-Computer Engineering student at UManitoba, building at the intersection of intelligent software and physical systems. I'm drawn to problems where software meets the real world — autonomous systems that navigate and adapt, firmware that runs close to the metal with hard timing constraints, and backend services that hold up under pressure.
+Computer Engineering student at UManitoba. I like building things where software meets the real world — robotics, embedded systems, backend services.
 
-On the software side, I'm deep into backend engineering and actively exploring how GenAI can be woven into real, useful products — not just demos.
+On the software side, deep into backend engineering and figuring out where GenAI actually makes sense.
 
 Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.
 
