@@ -1,15 +1,21 @@
 ## Hey, I'm Yuvraj 👋
 
 Computer Engineering student at UManitoba, building at the intersection of intelligent software and physical systems. I'm drawn to problems where software meets the real world — autonomous systems that navigate and adapt, firmware that runs close to the metal with hard timing constraints, and backend services that hold up under pressure.
-On the software side, I'm deep into backend engineering and actively exploring how GenAI can be woven into real, useful products — not just demos. Currently building BISONplan, a smarter alternative to UManitoba's course registration system.
-Outside of engineering, I'm a competitive gamer — I approach ranked matches the same way I approach systems design: pattern recognition, iteration, and not tilting under pressure.
+
+On the software side, I'm deep into backend engineering and actively exploring how GenAI can be woven into real, useful products — not just demos.
+
+Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.
+
+---
+
+### Interests
+`autonomous systems` · `real-time firmware` · `backend engineering` · `GenAI` · `robotics` · `embedded systems`
 
 ---
 
 ### Experience
-
-- Software Engineer Intern @ Quark Power Inc.
-- Embedded Systems Member @ UM Robotics Team
+- 💼 **Software Engineer Intern** @ Quark Power Inc.
+- 🤖 **Embedded Systems Member** @ UM Robotics Team
 
 ---
 
