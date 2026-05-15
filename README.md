@@ -8,11 +8,6 @@ Outside of engineering, I play a lot of competitive games — ranked grind mostl
 
 ---
 
-### Interests
-`autonomous systems` · `real-time firmware` · `backend engineering` · `GenAI` · `robotics` · `embedded systems`
-
----
-
 ### Experience
 - 💼 **Software Engineer Intern** @ Quark Power Inc.
 - 🤖 **Embedded Systems Member** @ UM Robotics Team
