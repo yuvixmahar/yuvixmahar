@@ -1,10 +1,10 @@
-## Hey, I'm Yuvraj 👋
+<h1 align="center">Hey, I'm Yuvraj 👋</h1>
 
-Computer Engineering student at UManitoba. I like building things where software meets the real world — robotics, embedded systems, backend services.
+<p align="center">Computer Engineering student at UManitoba. I like building things where software meets the real world — robotics, embedded systems, backend services.</p>
 
-On the software side, deep into backend engineering and figuring out where GenAI actually makes sense.
+<p align="center">Deep into backend engineering and figuring out where GenAI actually makes sense.</p>
 
-Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.
+<p align="center">Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.</p>
 
 ---
 
