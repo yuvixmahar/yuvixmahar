@@ -2,7 +2,7 @@
 
 <p align="center">Computer Engineering student at UManitoba, building where software meets the real world — robotics, embedded systems, backend services.</p>
 
-<p align="center">Deep into backend engineering and figuring out where GenAI actually makes sense.</p>
+<p align="center">From APIs to microcontrollers — exploring backend, robotics, and embedded systems.</p>
 
 <p align="center">Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.</p>
 
