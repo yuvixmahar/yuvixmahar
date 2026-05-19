@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Yuvraj 👋</h1>
 
-<p align="center">Computer Engineering student at UManitoba, building where software meets the real world — robotics, embedded systems, backend services."</p>
+<p align="center">Computer Engineering student at UManitoba, building where software meets the real world — robotics, embedded systems, backend services.</p>
 
 <p align="center">Deep into backend engineering and figuring out where GenAI actually makes sense.</p>
 
