@@ -9,7 +9,7 @@
 ---
 
 ### Experience
-- 💼 **Software Engineer Intern** @ Quark Power Inc.
+- 💼 **Software Engineer Intern** @ Quark Power Inc. (Sept 2025 - May 2026)
 - 🤖 **Embedded Systems Member** @ UM Robotics Team
 
 ---
