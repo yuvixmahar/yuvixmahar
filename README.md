@@ -16,7 +16,7 @@
 
 ### Get in touch
 
-[![Email](https://img.shields.io/badge/Email-singhy5%40myumanitoba.ca-red?style=flat-square&logo=gmail&logoColor=white)](mailto:singhy5@myumanitoba.ca)
+[![Email](https://img.shields.io/badge/Email-yuvimahar79%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:singhy5@myumanitoba.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvixmahar)
 
 ---
