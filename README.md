@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Yuvraj 👋</h1>
 
-<p align="center">Computer Engineering student at UManitoba, building where software meets the real world — robotics, embedded systems, backend services.</p>
+<p align="center">Computer Engineering student at UManitoba, building where software meets the real world - robotics, embedded systems, backend services.</p>
 
 <p align="center">Engineering software that extends beyond the screen into real-world systems.</p>
 
-<p align="center">Outside of engineering, I play a lot of competitive games — ranked grind mostly, occasionally touching grass.</p>
+<p align="center">Outside of engineering, I play a lot of competitive games - ranked grind mostly, occasionally touching grass.</p>
 
 ---
 
